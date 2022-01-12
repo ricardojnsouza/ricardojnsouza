@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <div align="center">
 <a href="https://twitter.com/ricardojnsouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ricardojnsouza" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ricardojnsouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ricardojnsouza" height="30" width="40" /></a>
-<a href="https://fb.com/ricardo.souza.52831666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ricardo.souza.52831666" height="30" width="40" /></a>
+<a href="https://fb.com/ricardojnsouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ricardojnsouza" height="30" width="40" /></a>
 <a href="https://instagram.com/ricardojnsouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ricardojnsouza" height="30" width="40" /></a>
 <a href="https://discord.gg/Ricardo Souza#0591" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ricardo Souza#0591" height="30" width="40" /></a>
 </div>
