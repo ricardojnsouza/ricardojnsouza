@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **about software engineering, devops and others things**
 - 🔭 I’m currently working on **my career**
 - 😄 Pronouns: **He**
-- ⚡ Fun fact: **One Piece have a final chapter, someday...**
+- ⚡ Fun fact: **One Piece will have a final chapter, someday...**
 
 ##
 
